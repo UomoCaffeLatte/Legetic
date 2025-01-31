@@ -1,0 +1,1 @@
+// entry file to thes static html generator

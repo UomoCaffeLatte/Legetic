@@ -1,0 +1,1 @@
+// responsible for parsing markdown into componenets for translation.
